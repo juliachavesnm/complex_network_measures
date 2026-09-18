@@ -100,4 +100,4 @@ These examples are used to evaluate how the implementations behave under differe
 
 ## References
 
-The mathematical formulations used in this project are based on the complex-network literature included in the [`reference/`](reference/) directory.
+The mathematical formulations used in this project are based on the article "Complex network measures of brain connectivity: uses and interpretations" by Rubinov and Sporns, 2010 that can be accessed [here](https://pubmed.ncbi.nlm.nih.gov/19819337/).
