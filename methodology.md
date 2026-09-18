@@ -923,6 +923,4 @@ For measures involving disconnected vertices or vertices with insufficient neigh
 
 # References
 
-The mathematical formulations and methodological choices used in this repository are based on the references included in the [`reference/`](../reference/) directory.
-
-In particular, the formulations for the network measures implemented here follow the network-analysis methodology described in the reference material by Rubinov and Sporns.
+The mathematical formulations used in this project are based on the article "Complex network measures of brain connectivity: uses and interpretations" by Rubinov and Sporns, 2010, that can be accessed [here](https://pubmed.ncbi.nlm.nih.gov/19819337/).
