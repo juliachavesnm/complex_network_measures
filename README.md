@@ -37,7 +37,7 @@ Where an equivalent implementation is available in [NetworkX](https://networkx.o
 
 Some measures were implemented directly from their mathematical definitions when no directly equivalent NetworkX implementation was used.
 
-Detailed methodological notes and mathematical formulations are available in [`docs/methodology.md`](docs/methodology.md).
+Detailed methodological notes and mathematical formulations are available in [`methodology.md`](methodology.md).
 
 ## Requirements
 
@@ -71,7 +71,7 @@ clustering_coefficient = clustering(graph, degrees)
 transitivity = transitividade(graph, degrees)
 ```
 
-See [`docs/methodology.md`](docs/methodology.md) for the expected inputs and mathematical definitions of each measure.
+See [`methodology.md`](methodology.md) for the expected inputs and mathematical definitions of each measure.
 
 ## Validation
 
